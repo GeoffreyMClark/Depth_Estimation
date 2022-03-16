@@ -1,0 +1,6 @@
+IMAGE_TAG=author
+CONTAINER_NAME=tfdepth
+DATASET_PATH=/datasets/
+CUDA_VISIBLE_DEVICES=3
+
+

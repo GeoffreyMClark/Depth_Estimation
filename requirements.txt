@@ -1,0 +1,10 @@
+numpy
+scikit-build
+scikit-learn==0.21.2
+opencv-python==4.2.0.34
+pandas
+matplotlib
+tensorboardX
+tensorboard
+yacs
+tqdm
